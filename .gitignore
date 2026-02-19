@@ -1,4 +1,15 @@
+<<<<<<< HEAD
 __pycache__/
 *.pyc
 instance/
+=======
+# Ignorar el entorno virtual
+venv/
+
+# Ignorar archivos compilados de Python
+__pycache__/
+*.pyc
+
+# Ignorar archivos de entorno si los hubiera
+>>>>>>> b7f3bd9d68b3855ecd36d23ee87ba76d72b444ba
 .env
